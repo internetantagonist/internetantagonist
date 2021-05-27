@@ -1,6 +1,5 @@
 <hr>
 <p align="middle"><b>SAMAEL<br>
-	Py, HTML, PHP, C#<br>
+	Py, HTML, PHP<br>
 	Leader of #gLobALcHaoZ<br>
-	0day Hunter<br>
 <hr>
